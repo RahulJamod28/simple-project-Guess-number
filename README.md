@@ -10,7 +10,6 @@ This is a beginner-friendly project that uses basic concepts like:
 ---
 
 ## 🎮 How the Game Works
-
 - Snake 🐍 drinks Water 💧 → **Snake wins**
 - Water 💧 drowns Gun 🔫 → **Water wins**
 - Gun 🔫 kills Snake 🐍 → **Gun wins**
@@ -19,7 +18,6 @@ This is a beginner-friendly project that uses basic concepts like:
 ---
 
 ## 🧠 Game Logic
-
 - Computer randomly chooses between:
   - `snake`
   - `water`
@@ -33,7 +31,6 @@ This is a beginner-friendly project that uses basic concepts like:
 ---
 
 ## 🛠️ Technologies Used
-
 - **Python 3**
 - **random module**
 
@@ -45,6 +42,3 @@ This is a beginner-friendly project that uses basic concepts like:
 2. Clone the repository or download the file
 3. Open terminal / command prompt
 4. Run the command:
-
-```bash
-python snake_water_gun.py
