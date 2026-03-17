@@ -10,15 +10,15 @@ This is a beginner-friendly project that uses basic concepts like:
 ---
 
 ## 🎮 How the Game Works
-- Snake 🐍 drinks Water 💧 → **Snake wins**
-- Water 💧 drowns Gun 🔫 → **Water wins**
-- Gun 🔫 kills Snake 🐍 → **Gun wins**
-- Same choice → **Draw**
+- Snake 🐍 drinks Water 💧 → **Snake WINS**
+- Water 💧 drowns Gun 🔫 → **Water WINS**
+- Gun 🔫 kills Snake 🐍 → **Gun WINS**
+- Same choice → **DROW**
 
 ---
 
 ## 🧠 Game Logic
-- Computer randomly chooses between:
+- Computer Randomly Chooses Between:
   - `snake`
   - `water`
   - `gun`
