@@ -19,13 +19,13 @@ This is a beginner-friendly project that uses basic concepts like:
 
 ## 🧠 Game Logic
 - Computer Randomly Chooses Between:
-  - `snake`
-  - `water`
-  - `gun`
-- User inputs:
-  - `s` for Snake
-  - `w` for Water
-  - `g` for Gun
+  - `Snake`
+  - `Water`
+  - `Gun`
+- User Inputs:
+  - `s` For Snake
+  - `w` For Water
+  - `g` For Gun
 - The program compares both choices and declares the result.
 
 ---
