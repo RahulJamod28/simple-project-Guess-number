@@ -1,6 +1,6 @@
 # 🐍 Snake, Water, Gun Game (Python)
 
-A simple **Snake, Water, Gun** game built using **Python**.  
+A Simple **Snake, Water, Gun** game built using **Python**.  
 This is a beginner-friendly project that uses basic concepts like:
 - Dictionaries
 - Conditional statements
