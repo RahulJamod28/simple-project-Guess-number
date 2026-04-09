@@ -10,7 +10,7 @@ This is a beginner-friendly project that uses basic concepts like:
 ---
 
 ## 🎮 How the Game Works
-- Snake 🐍 drinks Water 💧 → **Snake WINS**
+- Snake 🐍 Drinks Water 💧 → **Snake WINS**
 - Water 💧 drowns Gun 🔫 → **Water WINS**
 - Gun 🔫 kills Snake 🐍 → **Gun WINS**
 - Same choice → **DROW**
